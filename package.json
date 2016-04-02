@@ -1,0 +1,23 @@
+{
+  "name": "jetty",
+  "version": "1.0.0",
+  "description": "Web-based Docker Management Tool",
+  "main": "run.js",
+  "scripts": {
+    "test": "istanbul _mocha -- --colors --recursive tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a0js/jetty.git"
+  },
+  "keywords": [
+    "docker",
+    "management"
+  ],
+  "author": "Ammon Sarver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a0js/jetty/issues"
+  },
+  "homepage": "https://github.com/a0js/jetty#readme"
+}
